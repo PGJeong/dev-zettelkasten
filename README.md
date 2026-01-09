@@ -36,7 +36,7 @@
 | `move`   | 파일 이동, 폴더 구조 변경 및 파일 삭제     |
 | `docs`   | README 및 시스템 설정 파일 수정       |
 
-**Example:**
+**Example:** 
 - `note: OSI 7계층 핵심 요약 정리`
 - `update: 프로젝트 A 트러블슈팅 세부 내용 보완`
 - `move: 자바 기초 노트를 Lang 폴더로 이동`
@@ -46,11 +46,11 @@
 
 이 저장소의 지식 체계를 유지하기 위해 아래 도구와 설정을 권장합니다.
 
-**Required Tools:**
+**Required Tools:** 
 * [Obsidian](https://obsidian.md/): 로컬 마크다운 기반 지식 관리 도구
 * [Git](https://git-scm.com/): 버전 관리 및 원격 저장소 동기화
 
-**Obsidian Settings:**
+**Obsidian Settings:** 
 저장소 루트의 `.obsidian` 설정을 공유하지만, 아래 항목은 반드시 확인해 주세요.
 
 * **Files & Links**
@@ -60,7 +60,7 @@
 * **Core Plugins**
     * `Templates`: 활성화 후 `Template folder location`을 `90_System`으로 지정
 
-**Sync:**
+**Sync:** 
 별도의 플러그인을 사용하지 않으므로, 작업 후 아래 커맨드를 통해 수동으로 동기화합니다.
 ```bash
 git add .
