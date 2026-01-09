@@ -1,0 +1,13 @@
+# 개인 작업상태
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/indexed-indices/
+
+# Git 플러그인 로그 및 로컬설정
+.obsidian/plugins/obsidian-git/data.json
+
+# OS 및 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
