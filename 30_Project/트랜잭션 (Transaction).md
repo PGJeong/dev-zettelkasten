@@ -53,3 +53,4 @@
 |**Repeatable Read**|Phantom Read (일부 DB 제외)|트랜잭션 내에서 한 번 읽은 데이터는 반복해서 읽어도 동일함|
 |**Serializable**|없음|트랜잭션을 순차적으로 실행함 (가장 안전하지만 가장 느림)|
 - MySQL(InnoDB)은 **Repeatable Read**를, Oracle이나 PostgreSQL은 **Read Committed**를 기본으로 사용
+
