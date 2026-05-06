@@ -33,6 +33,6 @@
 ---
 # 대표적인 ORM 도구
 
-- **Python:** **SQLAlchemy** (FastAPI에서 주로 사용), **Django ORM**
+- **Python:** **[[SQLAlchemy]]** (FastAPI에서 주로 사용), **Django ORM**
 - **Java:** **Hibernate** (JPA의 구현체)
 - **JavaScript/Node.js:** **Sequelize**, **Prisma**
