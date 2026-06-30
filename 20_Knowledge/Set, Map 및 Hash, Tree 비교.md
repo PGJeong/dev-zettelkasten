@@ -12,7 +12,7 @@
 - **특징:** 데이터가 들어온 순서를 알 수 없으며, 정렬되지 않음
 ### Tree
 
-- **원리:** 이진 탐색 트리(Binary Search Tree), 그 중에서도 균형을 잡는 Red-Black Tree 구조 사용
+- **원리:** [[PriorityQueue, Tree 비교|이진 탐색 트리(Binary Search Tree)]], 그 중에서도 균형을 잡는 Red-Black Tree 구조 사용
 - **성능:** 추가, 삭제, 검색에 **O(logN)**의 시간 소요
 - **특징:** 데이터가 **정렬된 상태**로 유지(기본은 오름차순)
 
